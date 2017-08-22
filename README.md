@@ -1,0 +1,3 @@
+# ONAP
+ONAP root project
+#information to be inculed here: what kind of information?...
